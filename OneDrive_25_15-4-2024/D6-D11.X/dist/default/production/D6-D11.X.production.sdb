@@ -1,0 +1,65 @@
+[p GLOBOPT AUTOSTATIC IEEE_DBL IEEE_FLT PIC14 PICREGULAR PICMID ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 16F887 ]
+[d frameptr 0 ]
+"10 C:\Program Files\Microchip\xc8\v2.32\pic\sources\c90\common\sprcadd.c
+[v ___fladd __fladd `(d  1 e 4 0 ]
+"4 C:\Program Files\Microchip\xc8\v2.32\pic\sources\c90\common\Umul8_16.c
+[v __Umul8_16 _Umul8_16 `(ui  1 e 2 0 ]
+"6 C:\Program Files\Microchip\xc8\v2.32\pic\sources\c90\pic\__eeprom.c
+[v ___eecpymem __eecpymem `(v  1 e 1 0 ]
+"39
+[v ___memcpyee __memcpyee `(v  1 e 1 0 ]
+"28 C:\Users\DATA\Desktop\VI_XU_LI\D6-D11.X\D6-D11.c
+[v _delay_ms delay_ms `(v  1 e 1 0 ]
+"44
+[v _main main `(v  1 e 1 0 ]
+"228 D:/Program Files (x86)/Microchip/MPLABX/v5.40/packs/Microchip/PIC16Fxxx_DFP/1.2.33/xc8\pic\include\proc\pic16f887.h
+[v _PORTB PORTB `VEuc  1 e 1 @6 ]
+"414
+[v _PORTE PORTE `VEuc  1 e 1 @9 ]
+"657
+[v _TMR1L TMR1L `VEuc  1 e 1 @14 ]
+"664
+[v _TMR1H TMR1H `VEuc  1 e 1 @15 ]
+"1478
+[v _TRISB TRISB `VEuc  1 e 1 @134 ]
+"1664
+[v _TRISE TRISE `VEuc  1 e 1 @137 ]
+"3387
+[v _ANSEL ANSEL `VEuc  1 e 1 @392 ]
+"3449
+[v _ANSELH ANSELH `VEuc  1 e 1 @393 ]
+"3896
+[v _GIE GIE `VEb  1 e 0 @95 ]
+"4040
+[v _PEIE PEIE `VEb  1 e 0 @94 ]
+"4328
+[v _T1CKPS0 T1CKPS0 `VEb  1 e 0 @132 ]
+"4331
+[v _T1CKPS1 T1CKPS1 `VEb  1 e 0 @133 ]
+"4349
+[v _T1SYNC T1SYNC `VEb  1 e 0 @130 ]
+"4364
+[v _TMR1CS TMR1CS `VEb  1 e 0 @129 ]
+"4373
+[v _TMR1IF TMR1IF `VEb  1 e 0 @96 ]
+"4376
+[v _TMR1ON TMR1ON `VEb  1 e 0 @128 ]
+"44 C:\Users\DATA\Desktop\VI_XU_LI\D6-D11.X\D6-D11.c
+[v _main main `(v  1 e 1 0 ]
+{
+"56
+[v main@b b `ui  1 a 2 7 ]
+"84
+} 0
+"28
+[v _delay_ms delay_ms `(v  1 e 1 0 ]
+{
+"31
+[v delay_ms@i i `ui  1 a 2 2 ]
+"28
+[v delay_ms@ms ms `ui  1 p 2 0 ]
+"42
+} 0
